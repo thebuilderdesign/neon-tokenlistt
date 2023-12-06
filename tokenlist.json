@@ -1,0 +1,44 @@
+{
+    "name": " Neon Token List",
+    "logoURI": "https://ipfs.io/ipfs/QmboueeAmvXQU2ceg4XTmzNxVqmcUVuyuL2Z4wed2Fgiw8?filename=neon-logo.png",
+    "timestamp": "2023-12-01T00:00:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 245022926,
+        "address": "0x11adC2d986E334137b9ad0a0F290771F31e9517F",
+        "name": "Wrapped Neon",
+        "symbol": "WNEON",
+        "decimals": 18,
+        "logoURI": "https://ipfs.io/ipfs/QmboueeAmvXQU2ceg4XTmzNxVqmcUVuyuL2Z4wed2Fgiw8?filename=neon-logo.png"
+      },
+      {
+        "chainId": 245022926,
+        "address": "0x512E48836Cd42F3eB6f50CEd9ffD81E0a7F15103",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 8,
+        "logoURI": "https://ipfs.io/ipfs/QmeymxYhKcgE6BJwiw1iScQYnpUQKDQqgPYsLGnJ8R6kYR?filename=usdc.png"
+      },
+     {
+        "chainId": 245022926,
+        "address": "0x480FEC9A711fe0547Ffbc0ec2070E498AEf23Eb8",
+        "name": "Pancake",
+        "symbol": "CAKE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/20217/thumb/6oc-L2UC_400x400.png?1696519627"
+      }
+      {
+        "chainId": 245022926,
+        "address": "0x6eEf939FC6e2B3F440dCbB72Ea81Cd63B5a519A5",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 8,
+        "logoURI": "https://ipfs.io/ipfs/QmdUshyLUMRgwy6Wirj6r3dwQsUddmrG2tVVfPXN8XfCjd?filename=usdt.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
